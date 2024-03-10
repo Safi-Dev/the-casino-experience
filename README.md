@@ -1,5 +1,5 @@
 # the-casino-experience
-A simple Python program that simulates what will happen if you continue gamble at a casino
+A simple Python program that simulates casino odds
 
 ## Requirements
 
